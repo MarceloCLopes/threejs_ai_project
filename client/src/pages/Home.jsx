@@ -7,6 +7,7 @@ import {
   headTextAnimation,
   slideAnimation,
 } from '../config/motion'
+
 import { CustomButtom } from '../components/CustomButtom'
 
 export const Home = () => {

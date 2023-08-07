@@ -1,9 +1,9 @@
 const config = {
   development: {
-    backendUrl: 'https://threejs-sepia.vercel.app/api/v1/dalle',
+    backendUrl: 'http://localhost:3333/api/v1/dalle',
   },
   production: {
-    backendUrl: 'https://devswag.onrender.com/api/v1/dalle',
+    backendUrl: 'https://threejs-server.vercel.app/api/v1/dalle',
   },
 }
 
